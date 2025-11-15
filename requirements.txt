@@ -1,0 +1,7 @@
+pygame
+customtkinter
+pillow
+matplotlib
+numpy
+pandas
+scikit-learn
